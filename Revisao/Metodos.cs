@@ -27,7 +27,7 @@ namespace Revisao
         public void Valida()
         {
             int saldo = 1000;
-            Metodos user = new Metodos();
+
             Cadastro pessoa = new Cadastro();
 
             pessoa.Usuario(); //Isso aqui colei o main aqui e deu certo. Jesus desceu sobre mim e me discerniu.
@@ -43,17 +43,17 @@ namespace Revisao
                 {
                     Console.WriteLine("Digite o valor a ser depositado:");
                     int deposito = Convert.ToInt32(Console.ReadLine());
-                    saldo = user.Deposito(saldo, deposito);
+                    saldo = Deposito(saldo, deposito);
                 }
                 else if (valida == 2)
                 {
                     Console.WriteLine("Digite o valor a ser sacado:");
                     int saque = Convert.ToInt32(Console.ReadLine());
-                    saldo = user.Saque(saldo, saque);
+                    saldo = Saque(saldo, saque);
                 }
                 else if (valida == 3)
                 {
-                    Console.WriteLine("O seu saldo atual é: " + user.Consulta(saldo));
+                    Console.WriteLine("O seu saldo atual é: " + Consulta(saldo));
                 }
 
             }
