@@ -1,0 +1,13 @@
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\Blue\C#\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
